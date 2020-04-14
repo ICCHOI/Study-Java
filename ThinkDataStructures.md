@@ -1,7 +1,10 @@
 Think Data Structures(자바로 배우는 핵심 자료구조와 알고리즘)
 ===
+![Image by. hanbit](http://www.hanbit.co.kr/data/books/B1619666323_l.jpg)
 
-1.Interface
+> [자바로 배우는 핵심 자료구조와 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B1619666323) 책을 통해 학습하면서 정리한 내용입니다.
+
+C1.Interface
 ---
 
 자바에서 interface는 method들의 집합을 의미한다.  
