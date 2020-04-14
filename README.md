@@ -6,4 +6,4 @@ Study-Java
 학습한 내용
 ---
 
-[Think Data Structure](./datastructres/ThinkDataStructres.md)
+[Think Data Structure](./DataStructures/ThinkDataStructures.md)
