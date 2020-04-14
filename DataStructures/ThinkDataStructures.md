@@ -15,7 +15,7 @@ Java Collection Framework는 List라는 interface를 정의하고 그 중 ArrayL
 
 위의 내용과 결합하면 List interface가 제공하는 메소드들은 ArrayList와 LinkedList 또는 List를 구현하는 어떤 객체와도 동작할 수 있어야 한다.
 
-[code](/src/chapter1/ListClinetExample.java)
+[code](./src/chapter1/ListClinetExample.java)
 
 위 코드에서는 구현 클래스가 아닌 List를 사용함으로써 코드를 인터페이스를 기준으로 의존 시킴으로써 특정 구현 클래스에 대한 의존에서 벗어 날 수 있다.  
 
